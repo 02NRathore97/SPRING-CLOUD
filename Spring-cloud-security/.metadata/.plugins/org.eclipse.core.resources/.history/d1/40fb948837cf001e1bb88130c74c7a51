@@ -1,0 +1,5 @@
+package com.rays.gateway.exeception;
+
+public class JwtTokenMissingException {
+
+}

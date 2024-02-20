@@ -1,0 +1,10 @@
+package com.rays.service01.dto;
+
+public class Product {
+	private String productId;
+	private String title;
+	private String description;
+	private String price;
+	private String discount;
+	private String discountedPrice;
+}

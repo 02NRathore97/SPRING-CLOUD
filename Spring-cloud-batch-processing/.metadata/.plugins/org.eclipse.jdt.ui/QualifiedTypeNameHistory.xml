@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.batch.runtime.JobExecution"/>
+    <fullyQualifiedTypeName name="javax.batch.runtime.BatchStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.JobExecutionListener"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.BatchStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.Step"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.item.ItemReader"/>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.item.ItemProcessor"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.item.ItemWriter"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.batch.BatchProperties.Job"/>
+</qualifiedTypeNameHistroy>

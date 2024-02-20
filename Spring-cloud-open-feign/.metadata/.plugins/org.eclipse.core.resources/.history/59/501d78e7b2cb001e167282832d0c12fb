@@ -1,0 +1,5 @@
+package com.rays.service02.feignclient;
+
+public interface Service02FeignClient {
+
+}

@@ -1,0 +1,5 @@
+package com.rays.auth.dao;
+
+public interface UserDAOInt {
+
+}

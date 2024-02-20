@@ -1,0 +1,5 @@
+package com.rays.auth.common;
+
+public class BaseForm {
+
+}

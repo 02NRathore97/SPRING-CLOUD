@@ -1,0 +1,31 @@
+package com.rays.gateway.config;
+
+import java.util.List;
+
+import org.springframework.cloud.client.ServiceInstance;
+import org.springframework.cloud.loadbalancer.core.ServiceInstanceListSupplier;
+
+import reactor.core.publisher.Flux;
+
+public class Service01InstanceListSupplier implements ServiceInstanceListSupplier {
+	
+	
+	private final String serviceId;
+
+	Service01InstanceListSupplier(String serviceId) {
+		this.serviceId = serviceId;
+	}
+
+	@Override
+	public String getServiceId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Flux<List<ServiceInstance>> get() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

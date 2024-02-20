@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.rays.service02.feignclient&apos; to &apos;service-01/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;service-02&apos;&#x0D;&#x0A;- Destination element: &apos;service-01/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;service-02/src/main/java/com.rays.service02.feignclient&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=service-01/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.rays.service02.feignclient" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1707968056860" version="1.0"/>
+</session>

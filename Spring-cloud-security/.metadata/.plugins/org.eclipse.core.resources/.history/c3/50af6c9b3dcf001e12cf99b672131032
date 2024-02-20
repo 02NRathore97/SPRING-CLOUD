@@ -1,0 +1,5 @@
+package com.rays.auth.execption;
+
+public class JwtTokenMalformedException {
+
+}
